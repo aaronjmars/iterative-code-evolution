@@ -6,7 +6,7 @@ A Claude Code skill that replaces ad-hoc "try and fix" coding with structured im
 
 ### OpenClaw
 
-Search for **Iterative Code Evolution** on [OpenClaw](https://openclaw.ai) and click **Install**, or run:
+Search for **Iterative Code Evolution** on [OpenClaw](https://clawhub.ai) and click **Install**, or run:
 
 ```bash
 openclaw install iterative-code-evolution
