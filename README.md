@@ -1,8 +1,18 @@
 # Iterative Code Evolution
 
-A Claude Code skill that replaces ad-hoc "try and fix" coding with structured improvement cycles. Adapted from the [ALMA](https://arxiv.org/abs/2404.11955) (Automated meta-Learning of Memory designs for Agentic systems) research framework.
+A Claude Code skill that replaces ad-hoc "try and fix" coding with structured improvement cycles. Adapted from the [ALMA](https://yimingxiong.me/alma) (Automated meta-Learning of Memory designs for Agentic systems) research framework.
 
 ## Installation
+
+### OpenClaw
+
+Search for **Iterative Code Evolution** on [OpenClaw](https://openclaw.ai) and click **Install**, or run:
+
+```bash
+openclaw install iterative-code-evolution
+```
+
+### Claude Code (CLI)
 
 Copy `SKILL.md` into your Claude Code skills directory:
 
@@ -14,6 +24,14 @@ cp SKILL.md ~/.claude/skills/iterative-code-evolution.md
 mkdir -p your-project/.claude/skills
 cp SKILL.md your-project/.claude/skills/iterative-code-evolution.md
 ```
+
+### Claude Desktop / Claude.ai
+
+1. Copy the contents of `SKILL.md`
+2. Open **Claude Desktop** or **Claude.ai**
+3. Navigate to **Settings** > **Custom Instructions**
+4. Paste the contents into the custom instructions field
+5. Save
 
 ## What It Does
 
